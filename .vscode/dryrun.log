@@ -1,0 +1,4 @@
+make: Entering directory '/home/fcomarcet1/www/laravel-docker'
+docker compose up -d
+make: Leaving directory '/home/fcomarcet1/www/laravel-docker'
+ 
